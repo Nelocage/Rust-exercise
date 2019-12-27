@@ -1,0 +1,11 @@
+E:\rust_code\guessing_game\target\debug\deps\rand_core-e2d01554080f0490.rmeta: C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs
+
+E:\rust_code\guessing_game\target\debug\deps\librand_core-e2d01554080f0490.rlib: C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs
+
+E:\rust_code\guessing_game\target\debug\deps\rand_core-e2d01554080f0490.d: C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs
+
+C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs:
+C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs:
+C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs:
+C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs:
+C:\Users\Nelocage\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs:
